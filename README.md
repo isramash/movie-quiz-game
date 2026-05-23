@@ -70,7 +70,7 @@ This project helped me improve and practice:
 - Event handling and game logic implementation
 - Working with shared code in a team environment
 - UI state management (login → game → results)
-- Collaboration using Git and Git branches
+- Collaboration using GitHub and GitHub branches
 - Structuring a multi-page web application
 
 ---
@@ -80,7 +80,7 @@ This project helped me improve and practice:
 - HTML5
 - CSS3
 - JavaScript
-- Git & GitHub
+- GitHub
 - Figma (design phase)
 
 ---
